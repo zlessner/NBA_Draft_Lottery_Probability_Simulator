@@ -9,6 +9,11 @@ This Jupyter Notebook produces draft lottery odds for the NBA's current format a
 - The 1000 lottery balls have been redistributed as shown in the following table:
 
 
+<p align="center"> 
+<img src="https://github.com/zlessner/NBA_Draft_Lottery_Probability_Simulator/blob/master/lotteryOdds.png">
+</p>
+
+
 
 ## Method
 
