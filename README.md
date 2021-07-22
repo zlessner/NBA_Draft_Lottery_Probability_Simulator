@@ -21,4 +21,5 @@ I initially used recursion to determine each team's probability for the picks de
 
 I then decided to simulate the draft millions of times with the current and hypothetical odds so that there would be a big enough sample to converge on each team's probabilities for the entire lottery.
 
-The result for the hypothetical odds is shown in the csv file. 
+The result for the hypothetical odds is shown in the [csv file](https://github.com/zlessner/NBA_Draft_Lottery_Probability_Simulator/blob/master/DraftProbabilityTable.csv). 
+
