@@ -4,9 +4,9 @@
 
 This Jupyter Notebook produces draft lottery odds for the NBA's current format and also for a format from the following suggested rule changes:
 
-- The top five picks are being determined by the lottery instead of the top four
+- The top five picks get determined by the lottery instead of the top four
 - The bottom 16 teams enter the lottery instead of the bottom 14
-- The 1000 lottery balls have been redistributed as shown in the following table:
+- The 1000 lottery balls are redistributed as shown in the following table:
 
 
 <p align="center"> 
